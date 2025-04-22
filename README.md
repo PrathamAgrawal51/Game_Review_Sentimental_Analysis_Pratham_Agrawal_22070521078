@@ -76,7 +76,7 @@ Confusion Matrix and classification metrics are displayed to evaluate model perf
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/PrathamAgrawal51/Game_Review_Sentimental_Analysis.git
+   git clone https://github.com/PrathamAgrawal51/Game_Review_Sentimental_Analysis_Pratham_Agrawal_22070521078.git
    cd steam-review-sentiment-analysis
    ```
 
